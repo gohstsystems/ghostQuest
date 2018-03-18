@@ -1,0 +1,2 @@
+# ghostQuest
+A javascript game
